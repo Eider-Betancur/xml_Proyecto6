@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE listacursos SYSTEM "ListaCursos.dtd">
+<listacursos>
+    <curso>
+        <alumno>
+            <dni>99999999</dni>
+            <nombre>Eider</nombre>
+            <apellido>Betancur</apellido>
+            <listaasignaturas>
+                <asignatura codigo="ce921831">
+                    <nombre>software web</nombre>
+                    <profesor>
+                        <nrp>70</nrp>
+                        <nombre>Paco</nombre>
+                        <apellido>Agudalez</apellido>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>
